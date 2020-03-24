@@ -30,6 +30,9 @@ def save_file(data):
 
 if __name__ == '__main__':
     driver = get_driver()
+    driver.get("https://www.mdpi.com/search?q=&journal=BDCC&sort=pubdate&page_count=200")
+    time.sleep(5)
+    driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")
     articles = get_data(driver)
     driver.close()
     save_file(articles)
