@@ -1,0 +1,11 @@
+{
+    "title": "Optimal Number of Choices in Rating Contexts",
+    "authors": "Sam Ganzfried and Farzana Beente Yusuf",
+    "affiliations": "1\nGanzfried Research, Miami Beach, FL 33139, USA\n2\nSchool of Computing and Information Sciences, Florida International University, Miami, FL 33199, USA\n*\nAuthor to whom correspondence should be addressed.",
+    "year": "2019",
+    "url": "https://www.mdpi.com/2504-2289/3/3/48",
+    "article type": "Article",
+    "abstract": "In many settings, people must give numerical scores to entities from a small discrete set—for instance, rating physical attractiveness from 1–5 on dating sites, or papers from 1–10 for conference reviewing. We study the problem of understanding when using a different number of options is optimal. We consider the case when scores are uniform random and Gaussian. We study computationally when using 2, 3, 4, 5, and 10 options out of a total of 100 is optimal in these models (though our theoretical analysis is for a more general setting with k choices from n total options as well as a continuous underlying space). One may expect that using more options would always improve performance in this model, but we show that this is not necessarily the case, and that using fewer choices—even just two—can surprisingly be optimal in certain situations. While in theory for this setting it would be optimal to use all 100 options, in practice, this is prohibitive, and it is preferable to utilize a smaller number of options due to humans’ limited computational resources. Our results could have many potential applications, as settings requiring entities to be ranked by humans are ubiquitous. There could also be applications to other fields such as signal or image processing where input values from a large set must be mapped to output values in a smaller set. View Full-Text",
+    "keywords": "Keywords: recommender system; ranking; survey design; decision analysis; applied probability; quantization",
+    "publication history": "Received: 19 May 2019 / Revised: 6 August 2019 / Accepted: 22 August 2019 / Published: 27 August 2019"
+}

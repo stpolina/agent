@@ -1,0 +1,11 @@
+{
+    "title": "Prototype of Mobile Device to Contribute to Urban Mobility of Visually Impaired People",
+    "authors": "Fabrício Rosa Amorim and Fernando Luiz de Paula Santil",
+    "affiliations": "1\nPostgraduate Program in Geodetic Sciences, Federal University of Paraná, Curitiba-PR 80060-000, Brazil\n2\nGeography Institute, Federal University of Uberlândia, Monte Carmelo-MG 38500-000, Brazil\n*\nAuthor to whom correspondence should be addressed.",
+    "year": "2018",
+    "url": "https://www.mdpi.com/2504-2289/2/4/38",
+    "article type": "Article",
+    "abstract": "Visually impaired people (VIP) feel a lack of aid for their facilitated urban mobility, mainly due to obstacles encountered on their routes. This paper describes the design of AudioMaps, a prototype of cartographic technology for mobile devices. AudioMaps was designed to register the descriptions and locations of points of interest. When a point is registered, the prototype inserts a georeferenced landmark on the screen (based on Google Maps). Then, if the AudioMaps position is next to (15 or 5 m from) the previously registered point, it sends by audio the missing distance and a description. For a preview, a test area located in Monte Carmelo, Brazil, was selected, and the light poles, street corners (name of streets forming the intersections), and crosswalks were registered in AudioMaps. A tactile model, produced manually, was used to form the first image of four sighted people and four VIP, who completed a navigation task in the tested area. The results indicate that both the tactile model and the audiovisual prototype can be used by both groups of participants. Above all, the prototype proved to be a viable and promising option for decision-making and spatial orientation in urban environments. New ways of presenting data to VIP or sighted people are described. View Full-Text",
+    "keywords": "Keywords: visually impaired people; mobile devices; assistive cartography",
+    "publication history": "Received: 23 September 2018 / Revised: 27 November 2018 / Accepted: 29 November 2018 / Published: 4 December 2018"
+}

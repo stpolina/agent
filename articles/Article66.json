@@ -1,0 +1,11 @@
+{
+    "title": "Data Stream Clustering Techniques, Applications, and Models: Comparative Analysis and Discussion",
+    "authors": "Umesh Kokate , Arvind Deshpande , Parikshit Mahalle and Pramod Patil",
+    "affiliations": "1\nDepartment of Computer Engineering, SKNCoE, Vadgaon, SPPU, Pune 411 007 India\n2\nDepartment of Computer Engineering, D.Y. Patil CoE, Pimpri, SPPU, Pune 411 007 India\n*\nAuthor to whom correspondence should be addressed.",
+    "year": "2018",
+    "url": "https://www.mdpi.com/2504-2289/2/4/32",
+    "article type": "Review",
+    "abstract": "Data growth in today’s world is exponential, many applications generate huge amount of data streams at very high speed such as smart grids, sensor networks, video surveillance, financial systems, medical science data, web click streams, network data, etc. In the case of traditional data mining, the data set is generally static in nature and available many times for processing and analysis. However, data stream mining has to satisfy constraints related to real-time response, bounded and limited memory, single-pass, and concept-drift detection. The main problem is identifying the hidden pattern and knowledge for understanding the context for identifying trends from continuous data streams. In this paper, various data stream methods and algorithms are reviewed and evaluated on standard synthetic data streams and real-life data streams. Density-micro clustering and density-grid-based clustering algorithms are discussed and comparative analysis in terms of various internal and external clustering evaluation methods is performed. It was observed that a single algorithm cannot satisfy all the performance measures. The performance of these data stream clustering algorithms is domain-specific and requires many parameters for density and noise thresholds. View Full-Text",
+    "keywords": "Keywords: data stream; clustering techniques and algorithms; data mining; big data",
+    "publication history": "Received: 16 July 2018 / Revised: 23 August 2018 / Accepted: 10 October 2018 / Published: 17 October 2018"
+}

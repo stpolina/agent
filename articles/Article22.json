@@ -1,0 +1,11 @@
+{
+    "title": "Cooking Is Creating Emotion: A Study on Hinglish Sentiments of Youtube Cookery Channels Using Semi-Supervised Approach",
+    "authors": "Gagandeep Kaur , Abhishek Kaushik and Shubham Sharma",
+    "affiliations": "1\nSchool of Computing, Dublin Business School, D02 WC04 Dublin, Ireland\n2\nADAPT Centre, School of Computing, Dublin City University, D09 W6Y4 Dublin, Ireland\n3\nSchool of Food Science and Environmental Health, TU Dublin, D01 HV58 Dublin, Ireland\n*\nAuthors to whom correspondence should be addressed.\n†\nCurrent address: 13/14 Aungier St, D02 WC04 Dublin, Ireland.\n‡\nThese authors contributed equally to this work.",
+    "year": "2019",
+    "url": "https://www.mdpi.com/2504-2289/3/3/37",
+    "article type": "Article",
+    "abstract": "The success of Youtube has attracted a lot of users, which results in an increase of the number of comments present on Youtube channels. By analyzing those comments we could provide insight to the Youtubers that would help them to deliver better quality. Youtube is very popular in India. A majority of the population in India speak and write a mixture of two languages known as Hinglish for casual communication on social media. Our study focuses on the sentiment analysis of Hinglish comments on cookery channels. The unsupervised learning technique DBSCAN was employed in our work to find the different patterns in the comments data. We have modelled and evaluated both parametric and non-parametric learning algorithms. Logistic regression with the term frequency vectorizer gave 74.01% accuracy in Nisha Madulika’s dataset and 75.37% accuracy in Kabita’s Kitchen dataset. Each classifier is statistically tested in our study. View Full-Text",
+    "keywords": "Keywords: sentiment analysis; hinglish; cookery channels; machine learning",
+    "publication history": "Received: 14 May 2019 / Revised: 22 June 2019 / Accepted: 28 June 2019 / Published: 3 July 2019"
+}

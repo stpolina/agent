@@ -1,0 +1,11 @@
+{
+    "title": "Data-Driven Load Forecasting of Air Conditioners for Demand Response Using Levenberg–Marquardt Algorithm-Based ANN",
+    "authors": "Muhammad Waseem , Zhenzhi Lin and Li Yang",
+    "affiliations": "School of Electrical Engineering, Zhejiang University, Hangzhou 310027, China\n*\nAuthor to whom correspondence should be addressed.",
+    "year": "2019",
+    "url": "https://www.mdpi.com/2504-2289/3/3/36",
+    "article type": "Article",
+    "abstract": "Air Conditioners (AC) impact in overall electricity consumption in buildings is very high. Therefore, controlling ACs power consumption is a significant factor for demand response. With the advancement in the area of demand side management techniques implementation and smart grid, precise AC load forecasting for electrical utilities and end-users is required. In this paper, big data analysis and its applications in power systems is introduced. After this, various load forecasting categories and various techniques applied for load forecasting in context of big data analysis in power systems have been explored. Then, Levenberg–Marquardt Algorithm (LMA)-based Artificial Neural Network (ANN) for residential AC short-term load forecasting is presented. This forecasting approach utilizes past hourly temperature observations and AC load as input variables for assessment. Different performance assessment indices have also been investigated. Error formulations have shown that LMA-based ANN presents better results in comparison to Scaled Conjugate Gradient (SCG) and statistical regression approach. Furthermore, information of AC load is obtainable for different time horizons like weekly, hourly, and monthly bases due to better prediction accuracy of LMA-based ANN, which is helpful for efficient demand response (DR) implementation. View Full-Text",
+    "keywords": "Keywords: Air Conditioners (AC); Artificial Neural Network (ANN); big data analysis; cooling demand; energy consumption; Demand Response (DR); Load Forecasting (LF); Levenberg–Marquardt Algorithm (LMA)",
+    "publication history": "Received: 29 May 2019 / Revised: 25 June 2019 / Accepted: 26 June 2019 / Published: 2 July 2019"
+}

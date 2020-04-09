@@ -1,0 +1,11 @@
+{
+    "title": "PerTract: Model Extraction and Specification of Big Data Systems for Performance Prediction by the Example of Apache Spark and Hadoop",
+    "authors": "Johannes Kroß and Helmut Krcmar",
+    "affiliations": "1\nfortiss, Research Institute of the Free State of Bavaria, Guerickestr. 25, 80805 Munich, Germany\n2\nChair for Information Systems, Technical University of Munich (TUM), Boltzmannstr. 3, 85748 Garching, Germany\n*\nAuthor to whom correspondence should be addressed.",
+    "year": "2019",
+    "url": "https://www.mdpi.com/2504-2289/3/3/47",
+    "article type": "Article",
+    "abstract": "Evaluating and predicting the performance of big data applications are required to efficiently size capacities and manage operations. Gaining profound insights into the system architecture, dependencies of components, resource demands, and configurations cause difficulties to engineers. To address these challenges, this paper presents an approach to automatically extract and transform system specifications to predict the performance of applications. It consists of three components. First, a system-and tool-agnostic domain-specific language (DSL) allows the modeling of performance-relevant factors of big data applications, computing resources, and data workload. Second, DSL instances are automatically extracted from monitored measurements of Apache Spark and Apache Hadoop (i.e., YARN and HDFS) systems. Third, these instances are transformed to model- and simulation-based performance evaluation tools to allow predictions. By adapting DSL instances, our approach enables engineers to predict the performance of applications for different scenarios such as changing data input and resources. We evaluate our approach by predicting the performance of linear regression and random forest applications of the HiBench benchmark suite. Simulation results of adjusted DSL instances compared to measurement results show accurate predictions errors below 15% based upon averages for response times and resource utilization. View Full-Text",
+    "keywords": "Keywords: peformance evaluation; performance modeling; model extraction; performance simulation; big data systems",
+    "publication history": "Received: 13 July 2019 / Revised: 2 August 2019 / Accepted: 6 August 2019 / Published: 9 August 2019"
+}

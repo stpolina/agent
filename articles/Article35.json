@@ -1,0 +1,11 @@
+{
+    "title": "Analysis of Information Security News Content and Abnormal Returns of Enterprises",
+    "authors": "Chia-Ching Hung",
+    "affiliations": "Department of Information Management, National Chung Cheng University, Chiayi County 62102, Taiwan",
+    "year": "2019",
+    "url": "https://www.mdpi.com/2504-2289/3/2/24",
+    "article type": "Article",
+    "abstract": "As information technologies and the Internet have rapidly evolved, businesses have begun to use them to improve communication efficiency within and outside the organization. However, applications of information technologies are accompanied by information delivery, personal data protection, and information security problems. There are potential risks inherent in any application of information technologies. Moreover, with the improvement of networking and computing capabilities, the impact of attacks from hackers and malicious software has also increased. A breach or leakage of important corporate data may not only damage the firm’s image but also sabotage the firm’s operation, resulting in financial losses. In this study, the content of information security news reports was analyzed in an attempt to clarify the association between information security news and corporate stock prices. Methods including decision trees, support vector machines (SVMs), and random forests were used to explore the associations of news related variables with abnormal returns. Results indicate that the news source and the presence of negative words in the news have an impact on abnormal returns. View Full-Text",
+    "keywords": "Keywords: information security news; market value; abnormal return; decision tree; support vector machine; random forest",
+    "publication history": "Received: 27 March 2019 / Revised: 23 April 2019 / Accepted: 24 April 2019 / Published: 27 April 2019"
+}

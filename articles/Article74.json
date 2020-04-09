@@ -1,0 +1,11 @@
+{
+    "title": "Data Science Approach for Simulating Educational Data: Towards the Development of Teaching Outcome Model (TOM)",
+    "authors": "Ifeanyi G. Ndukwe , Ben K. Daniel and Russell J. Butson",
+    "affiliations": "Educational Technology, Higher Education Development Centre, University of Otago, Dunedin 9016, New Zealand\n*\nAuthor to whom correspondence should be addressed.\n†\nThese authors contributed equally to this work.",
+    "year": "2018",
+    "url": "https://www.mdpi.com/2504-2289/2/3/24",
+    "article type": "Article",
+    "abstract": "The increasing availability of educational data provides the educational researcher with numerous opportunities to use analytics to extract useful knowledge to enhance teaching and learning. While learning analytics focuses on the collection and analysis of data about students and their learning contexts, teaching analytics focuses on the analysis of the design of the teaching environment and the quality of learning activities provided to students. In this article, we propose a data science approach that incorporates the analysis and delivery of data-driven solution to explore the role of teaching analytics, without compromising issues of privacy, by creating pseudocode that simulates data to help develop test cases of teaching activities. The outcome of this approach is intended to inform the development of a teaching outcome model (TOM), that can be used to inspire and inspect quality of teaching. The simulated approach reported in the research was accomplished through Splunk. Splunk is a Big Data platform designed to collect and analyse high volumes of machine-generated data and render results on a dashboard in real-time. We present the results as a series of visual dashboards illustrating patterns, trends and results in teaching performance. Our research aims to contribute to the development of an educational data science approach to support the culture of data-informed decision making in higher education. View Full-Text",
+    "keywords": "Keywords: big data; data science; big data education; teaching analytics; dashboards; teaching output model; student evaluation of teaching; teaching practice",
+    "publication history": "Received: 19 June 2018 / Revised: 2 August 2018 / Accepted: 3 August 2018 / Published: 10 August 2018"
+}

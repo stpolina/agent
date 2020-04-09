@@ -1,0 +1,11 @@
+{
+    "title": "RazorNet: Adversarial Training and Noise Training on a Deep Neural Network Fooled by a Shallow Neural Network",
+    "authors": "Shayan Taheri , Milad Salem and Jiann-Shiun Yuan",
+    "affiliations": "Department of Electrical and Computer Engineering, University of Central Florida, Orlando, FL 32816-2362, USA\n*\nAuthor to whom correspondence should be addressed.",
+    "year": "2019",
+    "url": "https://www.mdpi.com/2504-2289/3/3/43",
+    "article type": "Article",
+    "abstract": "In this work, we propose ShallowDeepNet, a novel system architecture that includes a shallow and a deep neural network. The shallow neural network has the duty of data preprocessing and generating adversarial samples. The deep neural network has the duty of understanding data and information as well as detecting adversarial samples. The deep neural network gets its weights from transfer learning, adversarial training, and noise training. The system is examined on the biometric (fingerprint and iris) and the pharmaceutical data (pill image). According to the simulation results, the system is capable of improving the detection accuracy of the biometric data from 1.31% to 80.65% when the adversarial data is used and to 93.4% when the adversarial data as well as the noisy data are given to the network. The system performance on the pill image data is increased from 34.55% to 96.03% and then to 98.2%, respectively. Training on different types of noise can benefit us in detecting samples from unknown and unseen adversarial attacks. Meanwhile, the system training on the adversarial data as well as noisy data occurs only once. In fact, retraining the system may improve the performance further. Furthermore, training the system on new types of attacks and noise can help in enhancing the system performance. View Full-Text",
+    "keywords": "Keywords: adversarial attacks; adversarial perturbations; adversarial training; biometric recognition; convolutional neural networks; data security; deep learning; pill recognition; multiple subnetwork; noise training; transfer learning",
+    "publication history": "Received: 19 June 2019 / Revised: 15 July 2019 / Accepted: 16 July 2019 / Published: 23 July 2019"
+}

@@ -1,0 +1,11 @@
+{
+    "title": "Topological Signature of 19th Century Novelists: Persistent Homology in Text Mining",
+    "authors": "Shafie Gholizadeh , Armin Seyeditabari and Wlodek Zadrozny",
+    "affiliations": "Department of Computer Science, UNC Chatlotte, Charlotte, NC 28223, USA\n*\nAuthor to whom correspondence should be addressed.\n†\nCurrent address: Department of Computer Science, University of North Carolina at Charlotte, Charlotte, NC 28223, USA.",
+    "year": "2018",
+    "url": "https://www.mdpi.com/2504-2289/2/4/33",
+    "article type": "Article",
+    "abstract": "Topological Data Analysis (TDA) refers to a collection of methods that find the structure of shapes in data. Although recently, TDA methods have been used in many areas of data mining, it has not been widely applied to text mining tasks. In most text processing algorithms, the order in which different entities appear or co-appear is being lost. Assuming these lost orders are informative features of the data, TDA may play a significant role in the resulted gap on text processing state of the art. Once provided, the topology of different entities through a textual document may reveal some additive information regarding the document that is not reflected in any other features from conventional text processing methods. In this paper, we introduce a novel approach that hires TDA in text processing in order to capture and use the topology of different same-type entities in textual documents. First, we will show how to extract some topological signatures in the text using persistent homology-i.e., a TDA tool that captures topological signature of data cloud. Then we will show how to utilize these signatures for text classification. View Full-Text",
+    "keywords": "Keywords: topological data analysis; text mining; computational topology; style; persistent homology",
+    "publication history": "Received: 23 September 2018 / Revised: 8 October 2018 / Accepted: 15 October 2018 / Published: 18 October 2018"
+}

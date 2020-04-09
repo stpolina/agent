@@ -1,0 +1,11 @@
+{
+    "title": "Unscented Kalman Filter Based on Spectrum Sensing in a Cognitive Radio Network Using an Adaptive Fuzzy System",
+    "authors": "Md Ruhul Amin , Md Mahbubur Rahman , Mohammad Amazad Hossain , Md Khairul Islam , Kazi Mowdud Ahmed , Bikash Chandra Singh and Md Sipon Miah",
+    "affiliations": "1\nDepartment of Information and Communication Engineering, Islamic University, Kushtia 7003, Bangladesh\n2\nDepartment of Information and Communication Engineering, Noakhali Science & Technology University, Sonapur 3814, Noakhali, Bangladesh\n3\nDepartment of Biomedical Engineering, Islamic University, Kushtia 7003, Banglasesh\n4\nDiSTA, University of Insubriaz, 21100 Varese, Italy\n*\nAuthor to whom correspondence should be addressed.\n†\nCurrent address: Discipline of Information Technology, National University of Ireland Galway, H91 CF50 Galway, Ireland.\n‡\nThese authors contributed equally to this work.",
+    "year": "2018",
+    "url": "https://www.mdpi.com/2504-2289/2/4/39",
+    "article type": "Article",
+    "abstract": "In this paper, we proposed the unscented Kalman filter (UKF) based on cooperative spectrum sensing (CSS) scheme in a cognitive radio network (CRN) using an adaptive fuzzy system—in this proposed scheme, firstly, the UKF to apply the nonlinear system which is used to minimize the mean square estimation error; secondly, an adaptive fuzzy logic rule based on an inference engine to estimate the local decisions to detect a licensed primary user (PU) that is applied at the fusion center (FC). After that, the FC makes a global decision by using a defuzzification procedure based on a proposed algorithm. Simulation results show that the proposed scheme achieved better detection gain than the conventional schemes like an equal gain combining (EGC) based soft fusion rule and a Kalman filter (KL) based soft fusion rule under any conditions. Moreover, the proposed scheme achieved the lowest global probability of error compared to both the conventional EGC and KF schemes. View Full-Text",
+    "keywords": "Keywords: cognitive radio network; spectrum sensing; Kalman filter; extended Kalman filter; unscented Kalman filter; fuzzy system",
+    "publication history": "Received: 20 October 2018 / Revised: 13 December 2018 / Accepted: 13 December 2018 / Published: 17 December 2018"
+}

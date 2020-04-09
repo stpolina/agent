@@ -1,0 +1,11 @@
+{
+    "title": "LPaaS as Micro-Intelligence: Enhancing IoT with Symbolic Reasoning",
+    "authors": "Roberta Calegari , Giovanni Ciatto , Stefano Mariani , Enrico Denti and Andrea Omicini",
+    "affiliations": "1\nDipartimento di Informatica–Scienza e Ingegneria (DISI) Alma Mater Studiorum–Università di Bologna, 40136 Bologna, Italy\n2\nDipartimento di Informatica–Scienza e Ingegneria (DISI) Alma Mater Studiorum–Università di Bologna, 47521 Cesena, Italy\n3\nDipartimento di Scienze e Metodi dell’Ingegneria (DSMI) Università degli Studi di Modena e Reggio Emilia, 42122 Modena, Italy\n*\nAuthor to whom correspondence should be addressed.",
+    "year": "2018",
+    "url": "https://www.mdpi.com/2504-2289/2/3/23",
+    "article type": "Article",
+    "abstract": "In the era of Big Data and IoT, successful systems have to be designed to discover, store, process, learn, analyse, and predict from a massive amount of data—in short, they have to behave intelligently. Despite the success of non-symbolic techniques such as deep learning, symbolic approaches to machine intelligence still have a role to play in order to achieve key properties such as observability, explainability, and accountability. In this paper we focus on logic programming (LP), and advocate its role as a provider of symbolic reasoning capabilities in IoT scenarios, suitably complementing non-symbolic ones. In particular, we show how its re-interpretation in terms of LPaaS (Logic Programming as a Service) can work as an enabling technology for distributed situated intelligence. A possible example of hybrid reasoning—where symbolic and non-symbolic techniques fruitfully combine to produce intelligent behaviour—is presented, demonstrating how LPaaS could work in a smart energy grid scenario. View Full-Text",
+    "keywords": "Keywords: Logic Programming as a Service; IoT; symbolic reasoning",
+    "publication history": "Received: 15 July 2018 / Revised: 27 July 2018 / Accepted: 31 July 2018 / Published: 3 August 2018"
+}

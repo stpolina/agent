@@ -1,0 +1,11 @@
+{
+    "title": "Big Data Management Canvas: A Reference Model for Value Creation from Data",
+    "authors": "Michael Kaufmann",
+    "affiliations": "School of Information Technology, Lucerne University of Applied Sciences and Arts, Suurstoffi 41, 6343 Rotkreuz, Switzerland",
+    "year": "2019",
+    "url": "https://www.mdpi.com/2504-2289/3/1/19",
+    "article type": "Article",
+    "abstract": "Many big data projects are technology-driven and thus, expensive and inefficient. It is often unclear how to exploit existing data resources and map data, systems and analytics results to actual use cases. Existing big data reference models are mostly either technological or business-oriented in nature, but do not consequently align both aspects. To address this issue, a reference model for big data management is proposed that operationalizes value creation from big data by linking business targets with technical implementation. The purpose of this model is to provide a goal- and value-oriented framework to effectively map and plan purposeful big data systems aligned with a clear value proposition. Based on an epistemic model that conceptualizes big data management as a cognitive system, the solution space of data value creation is divided into five layers: preparation, analysis, interaction, effectuation, and intelligence. To operationalize the model, each of these layers is subdivided into corresponding business and IT aspects to create a link from use cases to technological implementation. The resulting reference model, the big data management canvas, can be applied to classify and extend existing big data applications and to derive and plan new big data solutions, visions, and strategies for future projects. To validate the model in the context of existing information systems, the paper describes three cases of big data management in existing companies. View Full-Text",
+    "keywords": "Keywords: big data management; cognitive system; reference model; business intelligence; knowledge management; value creation from data; case study",
+    "publication history": "Received: 24 January 2019 / Revised: 3 March 2019 / Accepted: 5 March 2019 / Published: 11 March 2019"
+}

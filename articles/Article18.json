@@ -1,0 +1,11 @@
+{
+    "title": "Breast Cancer Diagnosis System Based on Semantic Analysis and Choquet Integral Feature Selection for High Risk Subjects",
+    "authors": "Soumaya Trabelsi Ben Ameur , Dorra Sellami , Laurent Wendling and Florence Cloppet",
+    "affiliations": "1\nComputers, Imaging, Electronics & Systems (CIELS) from CEM-LAB National Engineering School of Sfax, Tunisia University of Sfax, ENIS, BP 1173, Sfax 3038, Tunisia\n2\nIntelligent System of Perception (SIP) from LIPADE lab, Paris Descartes University, 45 Saint Péres street, 75006 Paris, France\n*\nAuthor to whom correspondence should be addressed.\n†\nThese authors contributed equally to this work.",
+    "year": "2019",
+    "url": "https://www.mdpi.com/2504-2289/3/3/41",
+    "article type": "Article",
+    "abstract": "In this work, we build a computer aided diagnosis (CAD) system of breast cancer for high risk patients considering the breast imaging reporting and data system (BIRADS), mapping main expert concepts and rules. Therefore, a bag of words is built based on the ontology of breast cancer analysis. For a more reliable characterization of the lesion, a feature selection based on Choquet integral is applied aiming at discarding the irrelevant descriptors. Then, a set of well-known machine learning tools are used for semantic annotation to fill the gap between low level knowledge and expert concepts involved in the BIRADS classification. Indeed, expert rules are implicitly modeled using a set of classifiers for severity diagnosis. As a result, the feature selection gives a a better assessment of the lesion and the semantic analysis context offers an attractive frame to include external factors and meta-knowledge, as well as exploiting more than one modality. Accordingly, our CAD system is intended for diagnosis of breast cancer for high risk patients. It has been then validated based on two complementary modalities, MRI and dual energy contrast enhancement mammography (DECEDM), the proposed system leads a correct classification rate of 99%. View Full-Text",
+    "keywords": "Keywords: ontology; breast cancer; semantic analysis; feature selection; semantic gap; MRI; DECEDM",
+    "publication history": "Received: 17 May 2019 / Revised: 2 July 2019 / Accepted: 10 July 2019 / Published: 12 July 2019"
+}

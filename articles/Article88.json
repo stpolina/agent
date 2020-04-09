@@ -1,0 +1,11 @@
+{
+    "title": "Fog Computing and the Internet of Things: A Review",
+    "authors": "Hany F. Atlam , Robert J. Walters and Gary B. Wills",
+    "affiliations": "1\nElectronic and Computer Science Department, University of Southampton, Southampton SO17 1BJ, UK\n2\nComputer Science and Engineering Department, Faculty of Electronic Engineering, Menoufia University, Menouf 32952, Egypt\n*\nAuthor to whom correspondence should be addressed.",
+    "year": "2018",
+    "url": "https://www.mdpi.com/2504-2289/2/2/10",
+    "article type": "Review",
+    "abstract": "With the rapid growth of Internet of Things (IoT) applications, the classic centralized cloud computing paradigm faces several challenges such as high latency, low capacity and network failure. To address these challenges, fog computing brings the cloud closer to IoT devices. The fog provides IoT data processing and storage locally at IoT devices instead of sending them to the cloud. In contrast to the cloud, the fog provides services with faster response and greater quality. Therefore, fog computing may be considered the best choice to enable the IoT to provide efficient and secure services for many IoT users. This paper presents the state-of-the-art of fog computing and its integration with the IoT by highlighting the benefits and implementation challenges. This review will also focus on the architecture of the fog and emerging IoT applications that will be improved by using the fog model. Finally, open issues and future research directions regarding fog computing and the IoT are discussed. View Full-Text",
+    "keywords": "Keywords: Internet of Things; cloud of things; fog computing; fog as a service; IoT with fog computing; cloud computing",
+    "publication history": "Received: 4 March 2018 / Revised: 5 April 2018 / Accepted: 5 April 2018 / Published: 8 April 2018"
+}

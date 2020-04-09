@@ -1,0 +1,11 @@
+{
+    "title": "Per-Flow Throughput Fairness in Ring Aggregation Network with Multiple Edge Routers",
+    "authors": "Yu Nakayama and Kaoru Sezaki",
+    "affiliations": "1\nneko 9 Laboratories, Tokyo 140-0001, Japan\n2\nInstitute of Industrial Science, The University of Tokyo, Tokyo 153-8505, Japan\n*\nAuthor to whom correspondence should be addressed.",
+    "year": "2018",
+    "url": "https://www.mdpi.com/2504-2289/2/3/17",
+    "article type": "Article",
+    "abstract": "Ring aggregation networks are often employed by network carriers because of their efficiency and high fault tolerance. A fairness scheme is required in ring aggregation to achieve per-flow throughput fairness and bufferbloat avoidance, because frames are forwarded along multiple ring nodes. N Rate N + 1 Color Marking (NRN + 1CM) was proposed to achieve fairness in ring aggregation networks consisting of Layer-2 Switches (SWs). With NRN + 1CM, frames are selectively discarded based on color and the frame-dropping threshold. To avoid the accumulation of a queuing delay, frames are discarded at upstream nodes in advance through the notification process for the frame-dropping threshold. However, in the previous works, NRN + 1CM was assumed to be employed in a logical daisy chain topology linked to one Edge Router (ER). The currently available threshold notification process of NRN + 1CM cannot be employed for ring networks with multiple ERs. Therefore, this paper proposes a method for applying NRN + 1CM to a ring aggregation network with multiple ERs. With the proposed algorithm, an SW dynamically selects the dropping threshold to send in order to avoid excess frame discarding. The performance of the proposed scheme was confirmed through computer simulations. View Full-Text",
+    "keywords": "Keywords: fairness; ring network; throughput",
+    "publication history": "Received: 11 June 2018 / Revised: 12 July 2018 / Accepted: 17 July 2018 / Published: 18 July 2018"
+}

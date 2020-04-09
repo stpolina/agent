@@ -1,0 +1,11 @@
+{
+    "title": "Tensor Decomposition for Salient Object Detection in Images",
+    "authors": "Junxiu Zhou , Yangyang Tao and Xian Liu",
+    "affiliations": "1\nDepartment of Systems Engineering, University of Arkansas at Little Rock, Little Rock, AR 72204, USA\n2\nDepartment of Electrical and Computer Engineering, Stevens Institute of Technology, Hoboken, NJ 07030, USA\n*\nAuthor to whom correspondence should be addressed.",
+    "year": "2019",
+    "url": "https://www.mdpi.com/2504-2289/3/2/33",
+    "article type": "Article",
+    "abstract": "The fundamental challenge of salient object detection is to find the decision boundary that separates the salient object from the background. Low-rank recovery models address this challenge by decomposing an image or image feature-based matrix into a low-rank matrix representing the image background and a sparse matrix representing salient objects. This method is simple and efficient in finding salient objects. However, it needs to convert high-dimensional feature space into a two-dimensional matrix. Therefore, it does not take full advantage of image features in discovering the salient object. In this article, we propose a tensor decomposition method which considers spatial consistency and tries to make full use of image feature information in detecting salient objects. First, we use high-dimensional image features in tensor to preserve spatial information about image features. Following this, we use a tensor low-rank and sparse model to decompose the image feature tensor into a low-rank tensor and a sparse tensor, where the low-rank tensor represents the background and the sparse tensor is used to identify the salient object. To solve the tensor low-rank and sparse model, we employed a heuristic strategy by relaxing the definition of tensor trace norm and tensor l1-norm. Experimental results on three saliency benchmarks demonstrate the effectiveness of the proposed tensor decomposition method. View Full-Text",
+    "keywords": "Keywords: salient object; saliency detection; low-rank matrix recovery; tensor decomposition",
+    "publication history": "Received: 23 May 2019 / Revised: 14 June 2019 / Accepted: 17 June 2019 / Published: 19 June 2019"
+}

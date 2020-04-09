@@ -1,0 +1,11 @@
+{
+    "title": "Human-Error Prevention for Autonomous Edge Software Using Minimalistic Modern C++",
+    "authors": "Ryo Fukano and Masato Ishikawa",
+    "affiliations": "1\nKomatsu MIRAI Construction Equipment Cooperative Research Center, Osaka University, Osaka 565-0871, Japan\n2\nDept. of Mechanical Engineering, Osaka University, Osaka 565-0871, Japan\n*\nAuthor to whom correspondence should be addressed.",
+    "year": "2019",
+    "url": "https://www.mdpi.com/2504-2289/3/4/52",
+    "article type": "Article",
+    "abstract": "In science and engineering using edge-embedded software, it is necessary to demonstrate the validity of results; therefore, the software responsible for operating an edge system is required to guarantee its own validity. The aim of this study is to guarantee the validity of the sampled-time filter and time domain as fundamental elements of autonomous edge software. This requires the update law of a sampled-time filter to be invoked once per every control cycle, which we guaranteed by using the proposed domain specific language implemented by a metaprogramming design pattern in modern C++ (C++11 and later). The time-domain elements were extracted from the software, after which they were able to be injected into the extracted software independent from the execution environment of the software. The proposed approach was shown to be superior to conventional approaches that only rely on the attention of programmers to detect design defects. This shows that it is possible to guarantee the validity of edge software by using only a general embedded programming language such as modern C++ without auxiliary verification and validation toolchains. View Full-Text",
+    "keywords": "Keywords: edge-computing architecture; real-time computing; software verification; ISO compliant",
+    "publication history": "Received: 15 September 2019 / Revised: 16 October 2019 / Accepted: 18 October 2019 / Published: 4 November 2019"
+}

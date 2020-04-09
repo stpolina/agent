@@ -1,0 +1,11 @@
+{
+    "title": "Mining Temporal Patterns to Discover Inter-Appliance Associations Using Smart Meter Data",
+    "authors": "Sarah Osama , Marco Alfonse and Abdel-Badeeh M. Salem",
+    "affiliations": "Faculty of Computer and Information Sciences, Ain Shams University, Cairo 11566, Egypt\n*\nAuthor to whom correspondence should be addressed.",
+    "year": "2019",
+    "url": "https://www.mdpi.com/2504-2289/3/2/20",
+    "article type": "Article",
+    "abstract": "With the emergence of the smart grid environment, smart meters are considered one of the main key enablers for developing energy management solutions in residential home premises. Power consumption in the residential sector is affected by the behavior of home residents through using their home appliances. Respecting such behavior and preferences is essential for developing demand response programs. The main contribution of this paper is to discover the association between appliances’ usage through mining temporal association rules in addition to applying the temporal clustering technique for grouping appliances with similar usage at a particular time. The proposed method is applied on a time-series dataset, which is the United Kingdom Domestic Appliance-Level Electricity (UK-DALE), and the results that are achieved discovered appliance–appliance associations that have similar usage patterns with respect to the 24 h of the day. View Full-Text",
+    "keywords": "Keywords: hierarchical clustering; temporal association rules; smart meter; appliance–appliance association; energy management",
+    "publication history": "Received: 6 March 2019 / Revised: 25 March 2019 / Accepted: 27 March 2019 / Published: 29 March 2019"
+}

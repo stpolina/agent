@@ -1,0 +1,11 @@
+{
+    "title": "A Deep Learning Model of Perception in Color-Letter Synesthesia",
+    "authors": "Joel R. Bock",
+    "affiliations": "Independent Researcher, 6736 AlamoWay, La Mesa, CA 91942, USA",
+    "year": "2018",
+    "url": "https://www.mdpi.com/2504-2289/2/1/8",
+    "article type": "Article",
+    "abstract": "Synesthesia is a psychological phenomenon where sensory signals become mixed. Input to one sensory modality produces an experience in a second, unstimulated modality. In “grapheme-color synesthesia”, viewed letters and numbers evoke mental imagery of colors. The study of this condition has implications for increasing our understanding of brain architecture and function, language, memory and semantics, and the nature of consciousness. In this work, we propose a novel application of deep learning to model perception in grapheme-color synesthesia. Achromatic letter images, taken from database of handwritten characters, are used to train the model, and to induce computational synesthesia. Results show the model learns to accurately create a colored version of the inducing stimulus, according to a statistical distribution from experiments on a sample population of grapheme-color synesthetes. To the author’s knowledge, this work represents the first model that accurately produces spontaneous, creative mental imagery characteristic of the synesthetic perceptual experience. Experiments in cognitive science have contributed to our understanding of some of the observable behavioral effects of synesthesia, and previous models have outlined neural mechanisms that may account for these observations. A model of synesthesia that generates testable predictions on brain activity and behavior is needed to complement large scale data collection efforts in neuroscience, especially when articulating simple descriptions of cause (stimulus) and effect (behavior). The research and modeling approach reported here provides a framework that begins to address this need. View Full-Text",
+    "keywords": "Keywords: synesthesia; deep learning network; color perception; generative adversarial network; cognitive modeling; character recognition; GPU computing",
+    "publication history": "Received: 12 December 2017 / Revised: 4 March 2018 / Accepted: 8 March 2018 / Published: 13 March 2018"
+}

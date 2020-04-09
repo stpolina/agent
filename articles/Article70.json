@@ -1,0 +1,11 @@
+{
+    "title": "Analysis of Nonlinear Bypass Route Computation for Wired and Wireless Network Cooperation Recovery System",
+    "authors": "Yu Nakayama and Kazuki Maruta",
+    "affiliations": "1\nNeko 9 Laboratories, Tokyo 140-0001, Japan\n2\nGraduate School of Engineering, Chiba University, Chiba 263-8522, Japan\n*\nAuthor to whom correspondence should be addressed.",
+    "year": "2018",
+    "url": "https://www.mdpi.com/2504-2289/2/3/28",
+    "article type": "Article",
+    "abstract": "It is a significant issue for network carriers to immediately restore telecommunication services when a disaster occurs. A wired and wireless network cooperation (NeCo) system was proposed to address this problem. The goal of the NeCo system is quick and high-throughput recovery of telecommunication services in the disaster area using single-hop wireless links backhauled by wired networks. It establishes wireless bypass routes between widely deployed leaf nodes to relay packets to and from dead nodes whose normal wired communication channels are disrupted. In the previous study, the optimal routes for wireless links were calculated to maximize the expected physical layer throughput by solving a binary integer programming problem. However, the routing method did not consider throughput reduction caused by sharing of wireless resources among dead nodes. Therefore, this paper proposes a nonlinear bypass route computation method considering the wireless resource sharing among dead nodes for the NeCo system. Monte Carlo base approach is applied since the nonlinear programming problem is difficult to solve. The performance of the proposed routing method is evaluated with computer simulations and it was confirmed that bandwidth division loss can be avoided with the proposed method. View Full-Text",
+    "keywords": "Keywords: communication networks; system recovery; disaster; throughput",
+    "publication history": "Received: 23 July 2018 / Revised: 24 August 2018 / Accepted: 28 August 2018 / Published: 3 September 2018"
+}

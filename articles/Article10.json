@@ -1,0 +1,11 @@
+{
+    "title": "Emotional Decision-Making Biases Prediction in Cyber-Physical Systems",
+    "authors": "Alberto Corredera , Marta Romero and Jose M. Moya",
+    "affiliations": "Integrated Systems Laboratory, Center for Computational Simulation, Universidad Politécnica de Madrid, 28040 Madrid, Spain\n*\nAuthors to whom correspondence should be addressed.",
+    "year": "2019",
+    "url": "https://www.mdpi.com/2504-2289/3/3/49",
+    "article type": "Article",
+    "abstract": "This article faces the challenge of discovering the trends in decision-making based on capturing emotional data and the influence of the possible external stimuli. We conducted an experiment with a significant sample of the workforce and used machine-learning techniques to model the decision-making process. We studied the trends introduced by the emotional status and the external stimulus that makes these personnel act or report to the supervisor. The main result of this study is the production of a model capable of predicting the bias to act in a specific context. We studied the relationship between emotions and the probability of acting or correcting the system. The main area of interest of these issues is the ability to influence in advance the personnel to make their work more efficient and productive. This would be a whole new line of research for the future. View Full-Text",
+    "keywords": "Keywords: machine-learning; decision-making; emotion regulation; human error; Psychology; data analytics",
+    "publication history": "Received: 28 June 2019 / Revised: 21 August 2019 / Accepted: 28 August 2019 / Published: 30 August 2019"
+}

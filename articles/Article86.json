@@ -1,0 +1,11 @@
+{
+    "title": "Memory Recall Support System Based on Active Acquisition and Accumulation of Memory Fragments",
+    "authors": "Kaho Takahashi , Takumi Kato and Tetsuo Kinoshita",
+    "affiliations": "1\nResearch Institute of Electrical Communication, Tohoku University, Katahira 2-1-1, Aoba-ku, Sendai 980-8577, Japan\n2\nGraduate School of Information Sciences, Tohoku University, Aoba 6-3-09, Aramaki-aza, Aoba-ku, Sendai 980-8579, Japan\n*\nAuthor to whom correspondence should be addressed.",
+    "year": "2018",
+    "url": "https://www.mdpi.com/2504-2289/2/2/12",
+    "article type": "Article",
+    "abstract": "With the widespread use of wearable sensors, cloud services, social networking services (SNS), etc., there are various applications and systems that record information on users’ daily activities and support recalling these activities. In various situations in everyday life, it is useful to recall and refer to past events by utilizing such information; therefore, there are increasing expectations surrounding a memory recall system that supports users’ activities. In this research, we aim to realize a system that acquires records of users’ experiences, transforms these records as Active Information Resources, autonomously manages the accumulated records based on the record’s metadata, and supports users’ human memory recall. In this paper, we describe the design and implementation of a basic framework for accumulating records on daily activities and providing information related to past experiences according to the user’s request. We also present evaluation experiments using the implemented system. View Full-Text",
+    "keywords": "Keywords: memory recall support; lifelog; autonomous cooperation; active information resource",
+    "publication history": "Received: 23 March 2018 / Revised: 23 April 2018 / Accepted: 13 May 2018 / Published: 17 May 2018"
+}

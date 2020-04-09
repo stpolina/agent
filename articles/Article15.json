@@ -1,0 +1,11 @@
+{
+    "title": "Archetype-Based Modeling and Search of Social Media",
+    "authors": "Brent D. Davis , Kamran Sedig and Daniel J. Lizotte",
+    "affiliations": "1\nDepartment of Computer Science, Western University, London, ON N6A 5B7, Canada\n2\nFaculty of Information & Media Studies, Western University, London, ON N6A 5B9, Canada\n3\nDepartment of Biostatistics & Epidemiology, Schulich School of Medicine and Dentistry, Western University, London, ON N6A 5C1, Canada\n*\nAuthor to whom correspondence should be addressed.",
+    "year": "2019",
+    "url": "https://www.mdpi.com/2504-2289/3/3/44",
+    "article type": "Article",
+    "abstract": "Existing keyword-based search techniques suffer from limitations owing to unknown, mismatched, and obscure vocabulary. These challenges are particularly prevalent in social media, where slang, jargon, and memetics are abundant. We develop a new technique, Archetype-Based Modeling and Search, that can mitigate these challenges as they are encountered in social media. This technique learns to identify new relevant documents based on a specified set of archetypes from which both vocabulary and relevance information are extracted. We present a case study from the social media data from Reddit, by using authors from /r/Opiates to characterize discourse around opioid use and to find additional relevant authors on this topic. View Full-Text",
+    "keywords": "Keywords: information retrieval; modeling; social media; big data; machine learning; deep learning; natural language processing; word embeddings; opioids",
+    "publication history": "Received: 29 June 2019 / Revised: 19 July 2019 / Accepted: 22 July 2019 / Published: 24 July 2019"
+}

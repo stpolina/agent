@@ -1,0 +1,11 @@
+{
+    "title": "A Review of Facial Landmark Extraction in 2D Images and Videos Using Deep Learning",
+    "authors": "Matteo Bodini",
+    "affiliations": "Department of Computer Science, Università degli Studi di Milano, 20133 Milano, Italy",
+    "year": "2019",
+    "url": "https://www.mdpi.com/2504-2289/3/1/14",
+    "article type": "Review",
+    "abstract": "The task of facial landmark extraction is fundamental in several applications which involve facial analysis, such as facial expression analysis, identity and face recognition, facial animation, and 3D face reconstruction. Taking into account the most recent advances resulting from deep-learning techniques, the performance of methods for facial landmark extraction have been substantially improved, even on in-the-wild datasets. Thus, this article presents an updated survey on facial landmark extraction on 2D images and video, focusing on methods that make use of deep-learning techniques. An analysis of many approaches comparing the performances is provided. In summary, an analysis of common datasets, challenges, and future research directions are provided. View Full-Text",
+    "keywords": "Keywords: facial landmark extraction; deep learning",
+    "publication history": "Received: 14 January 2019 / Revised: 31 January 2019 / Accepted: 4 February 2019 / Published: 13 February 2019"
+}

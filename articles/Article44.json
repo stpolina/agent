@@ -1,0 +1,11 @@
+{
+    "title": "Intelligent Recommender System for Big Data Applications Based on the Random Neural Network",
+    "authors": "Will Serrano",
+    "affiliations": "Intelligent Systems Group, Electrical and Electronic Engineering, Imperial College London, London SW7 2AZ, UK\n†\nThis article is an extended version of the papers presented in the International Neural Network Society Conference on Big Data (2018) and International Conference on Artificial Intelligence Applications and Innovations (2018).",
+    "year": "2019",
+    "url": "https://www.mdpi.com/2504-2289/3/1/15",
+    "article type": "Article",
+    "abstract": "Online market places make their profit based on their advertisements or sales commission while businesses have the commercial interest to rank higher on recommendations to attract more customers. Web users cannot be guaranteed that the products provided by recommender systems within Big Data are either exhaustive or relevant to their needs. This article analyses the product rank relevance provided by different commercial Big Data recommender systems (Grouplens film, Trip Advisor and Amazon); it also proposes an Intelligent Recommender System (IRS) based on the Random Neural Network; IRS acts as an interface between the customer and the different Recommender Systems that iteratively adapts to the perceived user relevance. In addition, a relevance metric that combines both relevance and rank is presented; this metric is used to validate and compare the performance of the proposed algorithm. On average, IRS outperforms the Big Data recommender systems after learning iteratively from its customer. View Full-Text",
+    "keywords": "Keywords: Intelligent Recommender System; World Wide Web; Random Neural Network; Recommender Systems; Big Data; Relevance Decision Making",
+    "publication history": "Received: 26 December 2018 / Revised: 10 February 2019 / Accepted: 15 February 2019 / Published: 18 February 2019"
+}

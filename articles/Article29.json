@@ -1,0 +1,11 @@
+{
+    "title": "Mapping Distributional Semantics to Property Norms with Deep Neural Networks",
+    "authors": "Dandan Li and Douglas Summers-Stay",
+    "affiliations": "U.S. Army Research Laboratory, Adelphi, MD 20783, USA\n*\nAuthor to whom correspondence should be addressed.",
+    "year": "2019",
+    "url": "https://www.mdpi.com/2504-2289/3/2/30",
+    "article type": "Article",
+    "abstract": "Word embeddings have been very successful in many natural language processing tasks, but they characterize the meaning of a word/concept by uninterpretable “context signatures”. Such a representation can render results obtained using embeddings difficult to interpret. Neighboring word vectors may have similar meanings, but in what way are they similar? That similarity may represent a synonymy, metonymy, or even antonymy relation. In the cognitive psychology literature, in contrast, concepts are frequently represented by their relations with properties. These properties are produced by test subjects when asked to describe important features of concepts. As such, they form a natural, intuitive feature space. In this work, we present a neural-network-based method for mapping a distributional semantic space onto a human-built property space automatically. We evaluate our method on word embeddings learned with different types of contexts, and report state-of-the-art performances on the widely used McRae semantic feature production norms. View Full-Text",
+    "keywords": "Keywords: distributional semantics; word embeddings; property norm; neural networks",
+    "publication history": "Received: 23 April 2019 / Revised: 5 May 2019 / Accepted: 19 May 2019 / Published: 25 May 2019"
+}

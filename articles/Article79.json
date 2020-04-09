@@ -1,0 +1,11 @@
+{
+    "title": "Traffic Sign Recognition based on Synthesised Training Data",
+    "authors": "Alexandros Stergiou , Grigorios Kalliatakis and Christos Chrysoulas",
+    "affiliations": "1\nDepartment of Information and Computing Sciences, Utrecht University, Princetonplein 5, 3584 CC Utrecht, The Netherlands\n2\nSchool of Computer Science and Electronic Engineering, University of Essex, Wivenhoe Park, Colchester CO4 3SQ, UK\n3\nSchool of Engineering, London South Bank University, 103 Borough Road, London SE1 0AA, UK\n*\nAuthor to whom correspondence should be addressed.",
+    "year": "2018",
+    "url": "https://www.mdpi.com/2504-2289/2/3/19",
+    "article type": "Article",
+    "abstract": "To deal with the richness in visual appearance variation found in real-world data, we propose to synthesise training data capturing these differences for traffic sign recognition. The use of synthetic training data, created from road traffic sign templates, allows overcoming the problems of existing traffic sing recognition databases, which are only subject to specific sets of road signs found explicitly in countries or regions. This approach is used for generating a database of synthesised images depicting traffic signs under different view-light conditions and rotations, in order to simulate the complexity of real-world scenarios. With our synthesised data and a robust end-to-end Convolutional Neural Network (CNN), we propose a data-driven, traffic sign recognition system that can achieve not only high recognition accuracy, but also high computational efficiency in both training and recognition processes. View Full-Text",
+    "keywords": "Keywords: traffic sign recognition; synthetic data; dataset generator; CNNs",
+    "publication history": "Received: 29 May 2018 / Revised: 18 July 2018 / Accepted: 24 July 2018 / Published: 27 July 2018"
+}

@@ -1,0 +1,11 @@
+{
+    "title": "An Enhanced Inference Algorithm for Data Sampling Efficiency and Accuracy Using Periodic Beacons and Optimization",
+    "authors": "James Jin Kang , Kiran Fahd and Sitalakshmi Venkatraman",
+    "affiliations": "1\nDepartment of Information Technology, Melbourne Polytechnic, Preston, VIC 3181, Australia\n2\nSchool of Information Technology, Deakin University, Burwood, VIC 3125, Australia\n*\nAuthor to whom correspondence should be addressed.",
+    "year": "2019",
+    "url": "https://www.mdpi.com/2504-2289/3/1/7",
+    "article type": "Article",
+    "abstract": "Transferring data from a sensor or monitoring device in electronic health, vehicular informatics, or Internet of Things (IoT) networks has had the enduring challenge of improving data accuracy with relative efficiency. Previous works have proposed the use of an inference system at the sensor device to minimize the data transfer frequency as well as the size of data to save network usage and battery resources. This has been implemented using various algorithms in sampling and inference, with a tradeoff between accuracy and efficiency. This paper proposes to enhance the accuracy without compromising efficiency by introducing new algorithms in sampling through a hybrid inference method. The experimental results show that accuracy can be significantly improved, whilst the efficiency is not diminished. These algorithms will contribute to saving operation and maintenance costs in data sampling, where resources of computational and battery are constrained and limited, such as in wireless personal area networks emerged with IoT networks. View Full-Text",
+    "keywords": "Keywords: data accuracy; data optimization; data inferencing; inference algorithm; beacon; data sampling",
+    "publication history": "Received: 24 December 2018 / Revised: 11 January 2019 / Accepted: 12 January 2019 / Published: 16 January 2019"
+}

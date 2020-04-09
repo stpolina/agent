@@ -1,0 +1,11 @@
+{
+    "title": "An Experimental Evaluation of Fault Diagnosis from Imbalanced and Incomplete Data for Smart Semiconductor Manufacturing",
+    "authors": "Milad Salem , Shayan Taheri and Jiann-Shiun Yuan",
+    "affiliations": "Department of Electrical and Computer Engineering, University of Central Florida, Orlando, FL 32816, USA\n*\nAuthor to whom correspondence should be addressed.",
+    "year": "2018",
+    "url": "https://www.mdpi.com/2504-2289/2/4/30",
+    "article type": "Article",
+    "abstract": "The SECOM dataset contains information about a semiconductor production line, entailing the products that failed the in-house test line and their attributes. This dataset, similar to most semiconductor manufacturing data, contains missing values, imbalanced classes, and noisy features. In this work, the challenges of this dataset are met and many different approaches for classification are evaluated to perform fault diagnosis. We present an experimental evaluation that examines 288 combinations of different approaches involving data pruning, data imputation, feature selection, and classification methods, to find the suitable approaches for this task. Furthermore, a novel data imputation approach, namely “In-painting KNN-Imputation” is introduced and is shown to outperform the common data imputation technique. The results show the capability of each classifier, feature selection method, data generation method, and data imputation technique, with a full analysis of their respective parameter optimizations. View Full-Text",
+    "keywords": "Keywords: classification; data imputation; fault detection; machine learning; semiconductor manufacturing",
+    "publication history": "Received: 18 July 2018 / Revised: 10 September 2018 / Accepted: 14 September 2018 / Published: 21 September 2018"
+}

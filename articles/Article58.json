@@ -1,0 +1,11 @@
+{
+    "title": "Comparative Study between Big Data Analysis Techniques in Intrusion Detection",
+    "authors": "Mounir Hafsa and Farah Jemili",
+    "affiliations": "1\nHigher Institute of Computer Science and Telecom (ISITCOM), University of Sousse, Hammam Sousse 4011, Tunisia\n2\nMARS Research Lab LR17ES05, Higher Institute of Computer Science and Telecom (ISITCOM), University of Sousse, Hammam Sousse 4011, Tunisia\n*\nAuthors to whom correspondence should be addressed.",
+    "year": "2019",
+    "url": "https://www.mdpi.com/2504-2289/3/1/1",
+    "article type": "Article",
+    "abstract": "Cybersecurity ventures expect that cyber-attack damage costs will rise to $11.5 billion in 2019 and that a business will fall victim to a cyber-attack every 14 seconds. Notice here that the time frame for such an event is seconds. With petabytes of data generated each day, this is a challenging task for traditional intrusion detection systems (IDSs). Protecting sensitive information is a major concern for both businesses and governments. Therefore, the need for a real-time, large-scale and effective IDS is a must. In this work, we present a cloud-based, fault tolerant, scalable and distributed IDS that uses Apache Spark Structured Streaming and its Machine Learning library (MLlib) to detect intrusions in real-time. To demonstrate the efficacy and effectivity of this system, we implement the proposed system within Microsoft Azure Cloud, as it provides both processing power and storage capabilities. A decision tree algorithm is used to predict the nature of incoming data. For this task, the use of the MAWILab dataset as a data source will give better insights about the system capabilities against cyber-attacks. The experimental results showed a 99.95% accuracy and more than 55,175 events per second were processed by the proposed system on a small cluster. View Full-Text",
+    "keywords": "Keywords: intrusion detection system; machine learning; Apache Spark; Structured Streaming; Big Data; Decision Trees; Microsoft Azure Cloud",
+    "publication history": "Received: 12 November 2018 / Revised: 13 December 2018 / Accepted: 15 December 2018 / Published: 20 December 2018"
+}

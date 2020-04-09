@@ -1,0 +1,11 @@
+{
+    "title": "Strong Cognitive Symbiosis: Cognitive Computing for Humans",
+    "authors": "Csaba Veres",
+    "affiliations": "Department of Information Science and Media Studies, University of Bergen, Fosswinckelsgate 6, 5007 Bergen, Norway",
+    "year": "2017",
+    "url": "https://www.mdpi.com/2504-2289/1/1/6",
+    "article type": "Article",
+    "abstract": "“Cognitive Computing” has become somewhat of a rallying call in the technology world, with the promise of new smart services offered by industry giants like IBM and Microsoft. The associated technological advances in Artificial Intelligence (AI) have thrown into the public sphere some old questions about the relationship between machine computation and human intelligence. Much of the industry and media hype suggests that many traditional challenges have been overcome. On the contrary, our simple examples from language processing demonstrate that present day cognitive computing still struggles with fundamental, long-standing problems in AI. An alternative interpretation of cognitive computing is presented, following Licklider’s lead in adopting “man-computer symbiosis” as a metaphor for designing software systems that enhance human cognitive performance. A survey of existing proposals on this view suggests a distinction between weak and strong versions of symbiosis. We propose a Strong Cognitive Symbiosis, which dictates an interdependence rather than simply cooperation between human and machine functioning, and introduce new software systems, which were designed for cognitive symbiosis. We conclude that strong symbiosis presents a viable new perspective for the design of cognitive computing systems. View Full-Text",
+    "keywords": "Keywords: cognitive computing; cognition; AI; cognitive symbiosis; language; HCI",
+    "publication history": "Received: 14 September 2017 / Revised: 1 November 2017 / Accepted: 3 November 2017 / Published: 10 November 2017"
+}

@@ -1,0 +1,11 @@
+{
+    "title": "Two-Level Fault Diagnosis of SF6 Electrical Equipment Based on Big Data Analysis",
+    "authors": "Hongxia Miao , Heng Zhang , Minghua Chen , Bensheng Qi and Jiyong Li",
+    "affiliations": "1\nCollege of Internet of Things Engineering, HoHai University, Changzhou 213022, China\n2\nElectrical Engineering institute, Guangxi University, Nos.100, East University Road, Nanning 530004, China\n*\nAuthor to whom correspondence should be addressed.",
+    "year": "2019",
+    "url": "https://www.mdpi.com/2504-2289/3/1/4",
+    "article type": "Article",
+    "abstract": "With the increase of the operating time of sulphur hexafluoride (SF6) electrical equipment, the different degrees of discharge may occur inside the equipment. It makes the insulation performance of the equipment decline and will cause serious damage to the equipment. Therefore, it is of practical significance to diagnose fault and assess state for SF6 electrical equipment. In recent years, the frequency of monitoring data acquisition for SF6 electrical equipment has been continuously improved and the scope of collection has been continuously expanded, which makes massive data accumulated in the substation database. In order to quickly process massive SF6 electrical equipment condition monitoring data, we built a two-level fault diagnosis model for SF6 electrical equipment on the Hadoop platform. And we use the MapReduce framework to achieve the parallelization of the fault diagnosis algorithm, which further improves the speed of fault diagnosis for SF6 electrical equipment. View Full-Text",
+    "keywords": "Keywords: SF6 electrical equipment; Hadoop; fault diagnosis; parallelism",
+    "publication history": "Received: 9 November 2018 / Revised: 19 December 2018 / Accepted: 21 December 2018 / Published: 3 January 2019"
+}

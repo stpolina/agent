@@ -1,0 +1,11 @@
+{
+    "title": "Risks of Deep Reinforcement Learning Applied to Fall Prevention Assist by Autonomous Mobile Robots in the Hospital",
+    "authors": "Takaaki Namba and Yoji Yamada",
+    "affiliations": "Graduate School of Engineering, Nagoya University, Furo-cho, Chikusa-ku, Nagoya City 464-8603, Japan\n*\nAuthor to whom correspondence should be addressed.",
+    "year": "2018",
+    "url": "https://www.mdpi.com/2504-2289/2/2/13",
+    "article type": "Article",
+    "abstract": "Our previous study proposed an automatic fall risk assessment and related risk reduction measures. A nursing system to reduce patient accidents was also developed, therefore reducing the caregiving load of the medical staff in hospitals. However, there are risks associated with artificial intelligence (AI) in applications such as assistant mobile robots that use deep reinforcement learning. In this paper, we discuss safety applications related to AI in fields where humans and robots coexist, especially when applying deep reinforcement learning to the control of autonomous mobile robots. First, we look at a summary of recent related work on robot safety with AI. Second, we extract the risks linked to the use of autonomous mobile assistant robots based on deep reinforcement learning for patients in a hospital. Third, we systematize the risks of AI and propose sample risk reduction measures. The results suggest that these measures are useful in the fields of clinical and industrial safety. View Full-Text",
+    "keywords": "Keywords: artificial intelligence; assistive robotics; deep reinforcement learning; fall prevention; machine learning; mobile robot; risk; safety",
+    "publication history": "Received: 30 April 2018 / Revised: 2 June 2018 / Accepted: 7 June 2018 / Published: 17 June 2018"
+}

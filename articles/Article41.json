@@ -1,0 +1,11 @@
+{
+    "title": "DHCP Hierarchical Failover (DHCP-HF) Servers over a VPN Interconnected Campus",
+    "authors": "Lucas Trombeta and Nunzio Marco Torrisi",
+    "affiliations": "Center of Mathematics, Computing and Cognition, Federal University of ABC, Campus São Bernardo do Campo, São Paulo 09606-070, Brazil\n*\nAuthor to whom correspondence should be addressed.",
+    "year": "2019",
+    "url": "https://www.mdpi.com/2504-2289/3/1/18",
+    "article type": "Article",
+    "abstract": "This work presents a strategy to scale out the fault-tolerant dynamic host configuration protocol (DHCP) algorithm over multiple interconnected local networks. The proposed model is open and used as an alternative to commercial solutions for a multi-campus institution with facilities in different regions that are interconnected point-to-point using a dedicated link. When the DHCP scope has to be managed and structured over multiple geographic locations that are VPN connected, it requires physical redundancy, which can be provided by a failover server. The proposed solution overcomes the limitation placed on the number of failover servers as defined in the DHCP failover (DHCP-F) protocol, which specifies the use of one primary and one secondary server. Moreover, the presented work also contributes to improving the DHCP-F specification relative to a number of practical workarounds, such as the use of a virtualized DHCP server. Therefore, this research assumes a recovery strategy that is based on physical servers distributed among different locations and not centralized as clustered virtual machines. The proposed method was evaluated by simulations to investigate the impact of this solution in terms of network traffic generated over the VPN links in order to keep the failover service running using the proposed approach. View Full-Text",
+    "keywords": "Keywords: DHCP failover; distributed failover; large-scale distributed networks; hierarchical failover; DHCP-F; DHCP-HF",
+    "publication history": "Received: 8 February 2019 / Revised: 21 February 2019 / Accepted: 25 February 2019 / Published: 5 March 2019"
+}

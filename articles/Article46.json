@@ -1,0 +1,11 @@
+{
+    "title": "Usage of the Term Big Data in Biomedical Publications: A Text Mining Approach",
+    "authors": "Allard J. van Altena , Perry D. Moerland , Aeilko H. Zwinderman and Sílvia Delgado Olabarriaga",
+    "affiliations": "Department of Clinical Epidemiology, Biostatistics, and Bioinformatics, Amsterdam UMC, University of Amsterdam, Meibergdreef 9, 1105AZ Amsterdam, The Netherlands\n*\nAuthor to whom correspondence should be addressed.",
+    "year": "2019",
+    "url": "https://www.mdpi.com/2504-2289/3/1/13",
+    "article type": "Article",
+    "abstract": "In this study, we attempt to assess the value of the term Big Data when used by researchers in their publications. For this purpose, we systematically collected a corpus of biomedical publications that use and do not use the term Big Data. These documents were used as input to a machine learning classifier to determine how well they can be separated into two groups and to determine the most distinguishing classification features. We generated 100 classifiers that could correctly distinguish between Big Data and non-Big Data documents with an area under the Receiver Operating Characteristic (ROC) curve of 0.96. The differences between the two groups were characterized by terms specific to Big Data themes—such as ‘computational’, ‘mining’, and ‘challenges’—and also by terms that indicate the research field, such as ‘genomics’. The ROC curves when plotted for various time intervals showed no difference over time. We conclude that there is a detectable and stable difference between publications that use the term Big Data and those that do not. Furthermore, the use of the term Big Data within a publication seems to indicate a distinct type of research in the biomedical field. Therefore, we conclude that value can be attributed to the term Big Data when used in a publication and this value has not changed over time. View Full-Text",
+    "keywords": "Keywords: Big Data; Big Data Aspects; hype; biomedical literature; text mining; Lasso Regression",
+    "publication history": "Received: 16 January 2019 / Revised: 30 January 2019 / Accepted: 1 February 2019 / Published: 6 February 2019"
+}

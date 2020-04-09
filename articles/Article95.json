@@ -1,0 +1,11 @@
+{
+    "title": "Big Data Processing and Analytics Platform Architecture for Process Industry Factories",
+    "authors": "Martin Sarnovsky , Peter Bednar and Miroslav Smatana",
+    "affiliations": "Department of Cybernetics and Artificial Intelligence, Technical University Kosice, Letna 9, 04001 Kosice, Slovakia\n*\nAuthor to whom correspondence should be addressed.",
+    "year": "2018",
+    "url": "https://www.mdpi.com/2504-2289/2/1/3",
+    "article type": "Article",
+    "abstract": "This paper describes the architecture of a cross-sectorial Big Data platform for the process industry domain. The main objective was to design a scalable analytical platform that will support the collection, storage and processing of data from multiple industry domains. Such a platform should be able to connect to the existing environment in the plant and use the data gathered to build predictive functions to optimize the production processes. The analytical platform will contain a development environment with which to build these functions, and a simulation environment to evaluate the models. The platform will be shared among multiple sites from different industry sectors. Cross-sectorial sharing will enable the transfer of knowledge across different domains. During the development, we adopted a user-centered approach to gather requirements from different stakeholders which were used to design architectural models from different viewpoints, from contextual to deployment. The deployed architecture was tested in two process industry domains, one from the aluminium production and the other from the plastic molding industry. View Full-Text",
+    "keywords": "Keywords: Big Data analytics; Big Data architecture; process industries; predictive data analysis",
+    "publication history": "Received: 26 November 2017 / Revised: 13 January 2018 / Accepted: 23 January 2018 / Published: 26 January 2018"
+}

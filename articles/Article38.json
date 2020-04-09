@@ -1,0 +1,11 @@
+{
+    "title": "Multiparty Dynamics and Failure Modes for Machine Learning and Artificial Intelligence",
+    "authors": "David Manheim",
+    "affiliations": "Independent Researcher, Silver Spring, MD 20910, USA",
+    "year": "2019",
+    "url": "https://www.mdpi.com/2504-2289/3/2/21",
+    "article type": "Communication",
+    "abstract": "An important challenge for safety in machine learning and artificial intelligence systems is a set of related failures involving specification gaming, reward hacking, fragility to distributional shifts, and Goodhart’s or Campbell’s law. This paper presents additional failure modes for interactions within multi-agent systems that are closely related. These multi-agent failure modes are more complex, more problematic, and less well understood than the single-agent case, and are also already occurring, largely unnoticed. After motivating the discussion with examples from poker-playing artificial intelligence (AI), the paper explains why these failure modes are in some senses unavoidable. Following this, the paper categorizes failure modes, provides definitions, and cites examples for each of the modes: accidental steering, coordination failures, adversarial misalignment, input spoofing and filtering, and goal co-option or direct hacking. The paper then discusses how extant literature on multi-agent AI fails to address these failure modes, and identifies work which may be useful for the mitigation of these failure modes. View Full-Text",
+    "keywords": "Keywords: multi-agent systems; specification gaming; artificial intelligence safety; Goodhart’s Law",
+    "publication history": "Received: 28 February 2019 / Revised: 24 March 2019 / Accepted: 29 March 2019 / Published: 5 April 2019"
+}

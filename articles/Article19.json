@@ -1,0 +1,11 @@
+{
+    "title": "Safe Artificial General Intelligence via Distributed Ledger Technology",
+    "authors": "Kristen W. Carlson",
+    "affiliations": "Department of Neurosurgery, Neurosimulation Group, Beth Israel Deaconess Medical Center/Harvard Medical School, 110 Francis St., 3rd Floor, Boston, MA 02215, USA",
+    "year": "2019",
+    "url": "https://www.mdpi.com/2504-2289/3/3/40",
+    "article type": "Article",
+    "abstract": "Artificial general intelligence (AGI) progression metrics indicate AGI will occur within decades. No proof exists that AGI will benefit humans and not harm or eliminate humans. A set of logically distinct conceptual components is proposed that are necessary and sufficient to (1) ensure various AGI scenarios will not harm humanity, and (2) robustly align AGI and human values and goals. By systematically addressing pathways to malevolent AI we can induce the methods/axioms required to redress them. Distributed ledger technology (DLT, “blockchain”) is integral to this proposal, e.g., “smart contracts” are necessary to address the evolution of AI that will be too fast for human monitoring and intervention. The proposed axioms: (1) Access to technology by market license. (2) Transparent ethics embodied in DLT. (3) Morality encrypted via DLT. (4) Behavior control structure with values at roots. (5) Individual bar-code identification of critical components. (6) Configuration Item (from business continuity/disaster recovery planning). (7) Identity verification secured via DLT. (8) “Smart” automated contracts based on DLT. (9) Decentralized applications—AI software modules encrypted via DLT. (10) Audit trail of component usage stored via DLT. (11) Social ostracism (denial of resources) augmented by DLT petitions. (12) Game theory and mechanism design. View Full-Text",
+    "keywords": "Keywords: artificial general intelligence; AGI; blockchain; distributed ledger; AI containment; AI safety; AI value alignment; ASILOMAR",
+    "publication history": "Received: 1 June 2019 / Revised: 23 June 2019 / Accepted: 3 July 2019 / Published: 8 July 2019"
+}

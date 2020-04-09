@@ -1,0 +1,11 @@
+{
+    "title": "EMG Pattern Recognition in the Era of Big Data and Deep Learning",
+    "authors": "Angkoon Phinyomark and Erik Scheme",
+    "affiliations": "Institute of Biomedical Engineering, University of New Brunswick, Fredericton, NB E3B 5A3, Canada\n*\nAuthor to whom correspondence should be addressed.",
+    "year": "2018",
+    "url": "https://www.mdpi.com/2504-2289/2/3/21",
+    "article type": "Review",
+    "abstract": "The increasing amount of data in electromyographic (EMG) signal research has greatly increased the importance of developing advanced data analysis and machine learning techniques which are better able to handle “big data”. Consequently, more advanced applications of EMG pattern recognition have been developed. This paper begins with a brief introduction to the main factors that expand EMG data resources into the era of big data, followed by the recent progress of existing shared EMG data sets. Next, we provide a review of recent research and development in EMG pattern recognition methods that can be applied to big data analytics. These modern EMG signal analysis methods can be divided into two main categories: (1) methods based on feature engineering involving a promising big data exploration tool called topological data analysis; and (2) methods based on feature learning with a special emphasis on “deep learning”. Finally, directions for future research in EMG pattern recognition are outlined and discussed. View Full-Text",
+    "keywords": "Keywords: big data; deep learning; electromyogram; EMG; emotion recognition; feature extraction; myoelectric control; pattern recognition; wearable sensor",
+    "publication history": "Received: 3 July 2018 / Revised: 20 July 2018 / Accepted: 20 July 2018 / Published: 1 August 2018"
+}

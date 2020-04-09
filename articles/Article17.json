@@ -1,0 +1,11 @@
+{
+    "title": "InfoFlow: A Distributed Algorithm to Detect Communities According to the Map Equation",
+    "authors": "Park K. Fung",
+    "affiliations": "Department of Ophthalmology, State University of New York Downstate Medical Center, Brooklyn, NY 11203, USA",
+    "year": "2019",
+    "url": "https://www.mdpi.com/2504-2289/3/3/42",
+    "article type": "Article",
+    "abstract": "Formidably sized networks are becoming more and more common, including in social sciences, biology, neuroscience, and the technology space. Many network sizes are expected to challenge the storage capability of a single physical computer. Here, we take two approaches to handle big networks: first, we look at how big data technology and distributed computing is an exciting approach to big data storage and processing. Second, most networks can be partitioned or labeled into communities, clusters, or modules, thus capturing the crux of the network while reducing detailed information, through the class of algorithms known as community detection. In this paper, we combine these two approaches, developing a distributed community detection algorithm to handle big networks. In particular, the map equation provides a way to identify network communities according to the information flow between nodes, where InfoMap is a greedy algorithm that uses the map equation. We develop discrete mathematics to adapt InfoMap into a distributed computing framework and then further develop the mathematics for a greedy algorithm, InfoFlow, which has logarithmic time complexity, compared to the linear complexity in InfoMap. Benchmark results of graphs up to millions of nodes and hundreds of millions of edges confirm the time complexity improvement, while maintaining community accuracy. Thus, we develop a map equation based community detection algorithm suitable for big network data processing. View Full-Text",
+    "keywords": "Keywords: graph; community detection; big data",
+    "publication history": "Received: 25 April 2019 / Revised: 8 July 2019 / Accepted: 18 July 2019 / Published: 22 July 2019"
+}

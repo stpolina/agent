@@ -1,0 +1,11 @@
+{
+    "title": "Replacing Rules by Neural Networks A Framework for Agent-Based Modelling",
+    "authors": "Georg Jäger",
+    "affiliations": "University of Graz, Graz 8010, Austria",
+    "year": "2019",
+    "url": "https://www.mdpi.com/2504-2289/3/4/51",
+    "article type": "Article",
+    "abstract": "Agent-based modelling is a successful technique in many different fields of science. As a bottom-up method, it is able to simulate complex behaviour based on simple rules and show results at both micro and macro scales. However, developing agent-based models is not always straightforward. The most difficult step is defining the rules for the agent behaviour, since one often has to rely on many simplifications and assumptions in order to describe the complicated decision making processes. In this paper, we investigate the idea of building a framework for agent-based modelling that relies on an artificial neural network to depict the decision process of the agents. As a proof of principle, we use this framework to reproduce Schelling’s segregation model. We show that it is possible to use the presented framework to derive an agent-based model without the need of manually defining rules for agent behaviour. Beyond reproducing Schelling’s model, we show expansions that are possible due to the framework, such as training the agents in a different environment, which leads to different agent behaviour. View Full-Text",
+    "keywords": "Keywords: agent-based modelling; decision making; modelling framework; reinforcement learning",
+    "publication history": "Received: 17 September 2019 / Revised: 1 October 2019 / Accepted: 3 October 2019 / Published: 9 October 2019"
+}
