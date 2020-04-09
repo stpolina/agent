@@ -1,0 +1,11 @@
+{
+    "title": "Function Modeling Improves the Efficiency of Spatial Modeling Using Big Data from Remote Sensing",
+    "authors": "John Hogland and Nathaniel Anderson",
+    "affiliations": "Rocky Mountain Research Station, U.S. Forest Service, Missoula, MT 59801 USA\n*\nAuthor to whom correspondence should be addressed.",
+    "year": "2017",
+    "url": "https://www.mdpi.com/2504-2289/1/1/3",
+    "article type": "Article",
+    "abstract": "Spatial modeling is an integral component of most geographic information systems (GISs). However, conventional GIS modeling techniques can require substantial processing time and storage space and have limited statistical and machine learning functionality. To address these limitations, many have parallelized spatial models using multiple coding libraries and have applied those models in a multiprocessor environment. Few, however, have recognized the inefficiencies associated with the underlying spatial modeling framework used to implement such analyses. In this paper, we identify a common inefficiency in processing spatial models and demonstrate a novel approach to address it using lazy evaluation techniques. Furthermore, we introduce a new coding library that integrates Accord.NET and ALGLIB numeric libraries and uses lazy evaluation to facilitate a wide range of spatial, statistical, and machine learning procedures within a new GIS modeling framework called function modeling. Results from simulations show a 64.3% reduction in processing time and an 84.4% reduction in storage space attributable to function modeling. In an applied case study, this translated to a reduction in processing time from 2247 h to 488 h and a reduction is storage space from 152 terabytes to 913 gigabytes. View Full-Text",
+    "keywords": "Keywords: function modeling; remote sensing; machine learning; geographic information system",
+    "publication history": "Received: 26 June 2017 / Revised: 10 July 2017 / Accepted: 10 July 2017 / Published: 13 July 2017"
+}

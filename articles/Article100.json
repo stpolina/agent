@@ -1,0 +1,11 @@
+{
+    "title": "Real-Time Information Derivation from Big Sensor Data via Edge Computing",
+    "authors": "Kyoung-Don Kang , Liehuo Chen , Hyungdae Yi , Bin Wang and Mo Sha",
+    "affiliations": "Department of Computer Science, State University of New York at Binghamton, Binghamton, NY 13902, USA\n*\nAuthor to whom correspondence should be addressed.",
+    "year": "2017",
+    "url": "https://www.mdpi.com/2504-2289/1/1/5",
+    "article type": "Article",
+    "abstract": "In data-intensive real-time applications, e.g., cognitive assistance and mobile health (mHealth), the amount of sensor data is exploding. In these applications, it is desirable to extract value-added information, e.g., mental or physical health conditions, from sensor data streams in real-time rather than overloading users with massive raw data. However, achieving the objective is challenging due to the data volume and complex data analysis tasks with stringent timing constraints. Most existing big data management systems, e.g., Hadoop, are not directly applicable to real-time sensor data analytics, since they are timing agnostic and focus on batch processing of previously stored data that are potentially outdated and subject to I/O overheads. Moreover, embedded sensors and IoT devices lack enough resources to perform sophisticated data analytics. To address the problem, we design a new real-time big data management framework to support periodic in-memory real-time sensor data analytics at the network edge by extending the map-reduce model originated in functional programming, while providing adaptive sensor data transfer to the edge server based on data importance. In this paper, a prototype system is designed and implemented as a proof of concept. In the performance evaluation, it is empirically shown that important sensor data are delivered in a preferred manner and they are analyzed in a timely fashion. View Full-Text",
+    "keywords": "Keywords: real-time big sensor data analytics architecture; internet of things; edge computing",
+    "publication history": "Received: 29 September 2017 / Revised: 9 October 2017 / Accepted: 12 October 2017 / Published: 17 October 2017"
+}
