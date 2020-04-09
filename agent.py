@@ -8,14 +8,12 @@ def get_driver():
    return webdriver.Firefox(executable_path=r'geckodriver.exe')
 
 def get_data(driver):
-    #driver.get("https://www.mdpi.com/search?q=&journal=BDCC&sort=pubdate&page_count=200")
     articles = []
     authors = driver.find_elements_by_class_name('authors')
     titles = driver.find_elements_by_class_name('title-link')
     links = driver.find_elements_by_class_name('title-link')
     years = driver.find_elements_by_xpath("//div[@class='color-grey-dark']/b")
     article_types = driver.find_elements_by_class_name('articletype')
-    print(len(links))
 
     driver = get_driver()
     for i in range(len(links)):
@@ -67,5 +65,4 @@ if __name__ == '__main__':
     time.sleep(10)
     driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")
     articles = get_data(driver)
-    print(len(articles))
     driver.close()
