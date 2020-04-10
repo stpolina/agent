@@ -30,7 +30,7 @@ def get_data(driver):
         "authors": authors[i].text[3:],
         "affiliations": check(affiliations),
         "year": years[i].text,
-        "url": links[i].get_attribute("href"),
+        "url": url,
         "article type": article_types[i].text,
         "abstract": check(abstracts),
         "keywords": check(keywords),
